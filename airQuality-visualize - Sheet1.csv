@@ -1,20 +1,4 @@
 group,variable,value
-Long Island City,2011,11.02
-Long Island City,2012,9.84
-Long Island City,2013,9.6
-Long Island City,2014,9.98
-Long Island City,2015,9.78
-Long Island City,2016,8.65
-Long Island City,2017,8.42
-Long Island City,2018,8.16
-Chelsea,2011,12.85
-Chelsea,2012,11.94
-Chelsea,2013,11.87
-Chelsea,2014,12.08
-Chelsea,2015,11.13
-Chelsea,2016,10.05
-Chelsea,2017,9.61
-Chelsea,2018,9.58
 Lower Manhattan,2011,11.71
 Lower Manhattan,2012,10.66
 Lower Manhattan,2013,10.44
@@ -23,14 +7,22 @@ Lower Manhattan,2015,10.21
 Lower Manhattan,2016,9.18
 Lower Manhattan,2017,8.68
 Lower Manhattan,2018,8.39
-Jamaica,2011,9.57
-Jamaica,2012,8.48
-Jamaica,2013,8.27
-Jamaica,2014,8.46
-Jamaica,2015,8.2
-Jamaica,2016,6.99
-Jamaica,2017,7.08
-Jamaica,2018,6.69
+Chelsea,2011,12.85
+Chelsea,2012,11.94
+Chelsea,2013,11.87
+Chelsea,2014,12.08
+Chelsea,2015,11.13
+Chelsea,2016,10.05
+Chelsea,2017,9.61
+Chelsea,2018,9.58
+Long Island City,2011,11.02
+Long Island City,2012,9.84
+Long Island City,2013,9.6
+Long Island City,2014,9.98
+Long Island City,2015,9.78
+Long Island City,2016,8.65
+Long Island City,2017,8.42
+Long Island City,2018,8.16
 Flushing,2011,10.09
 Flushing,2012,8.93
 Flushing,2013,8.43
@@ -39,3 +31,12 @@ Flushing,2015,8.48
 Flushing,2016,7.26
 Flushing,2017,7.3
 Flushing,2018,6.93
+Jamaica,2011,9.57
+Jamaica,2012,8.48
+Jamaica,2013,8.27
+Jamaica,2014,8.46
+Jamaica,2015,8.2
+Jamaica,2016,6.99
+Jamaica,2017,7.08
+Jamaica,2018,6.69
+
