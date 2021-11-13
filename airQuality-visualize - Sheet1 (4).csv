@@ -1,12 +1,4 @@
 group,variable,value
-Lower Manhattan,2011,11.71
-Lower Manhattan,2012,10.66
-Lower Manhattan,2013,10.44
-Lower Manhattan,2014,10.79
-Lower Manhattan,2015,10.21
-Lower Manhattan,2016,9.18
-Lower Manhattan,2017,8.68
-Lower Manhattan,2018,8.39
 Chelsea,2011,12.85
 Chelsea,2012,11.94
 Chelsea,2013,11.87
@@ -15,6 +7,14 @@ Chelsea,2015,11.13
 Chelsea,2016,10.05
 Chelsea,2017,9.61
 Chelsea,2018,9.58
+Lower Manhattan,2011,11.71
+Lower Manhattan,2012,10.66
+Lower Manhattan,2013,10.44
+Lower Manhattan,2014,10.79
+Lower Manhattan,2015,10.21
+Lower Manhattan,2016,9.18
+Lower Manhattan,2017,8.68
+Lower Manhattan,2018,8.39
 Astoria,2011,11.02
 Astoria,2012,9.84
 Astoria,2013,9.6
